@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v "bin" /etc/passwd
+ls -la > ls_cwd_content
